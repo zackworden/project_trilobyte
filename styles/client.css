@@ -2,3 +2,8 @@ body
 {
 	background-color:#ccc;
 }
+
+.mainCanvas
+{
+	border:1px solid black;
+}

@@ -1,0 +1,3 @@
+- research drawing a viewport as a slice of a larger gameworld, to allow scrolling
+- think about how to do a subject / wiki style conversation, versus the node-based / stateful variety
+
