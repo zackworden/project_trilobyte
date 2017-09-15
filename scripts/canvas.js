@@ -46,6 +46,6 @@ var canvasManager = {
 window.addEventListener('DOMContentLoaded', function(){
 	canvasManager.init();
 
-	canvasManager.test( currentLevel );
+	//canvasManager.test( currentLevel );
 	// settings
 });
